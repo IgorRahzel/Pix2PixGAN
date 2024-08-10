@@ -38,7 +38,3 @@ The training of the model is implemented in the `train_gan()` function. This fun
 
 
 - **Optimization**: The model uses the Adam optimizer with tuned hyperparameters.
-
-To train the model, simply run the training script:
-
-## Results
